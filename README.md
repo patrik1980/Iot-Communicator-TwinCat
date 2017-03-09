@@ -7,3 +7,6 @@ Scaricable application is the Google Store https://play.google.com/store/search?
 After downloading the .pro in your PLC, forced to "TRUE" to "Start_Comm_App" variable.
 
 Communication and data exchange between the PLC application and it is only through the same wireless network.
+
+Other information can be found on my website http://robotidea.tk/
+
